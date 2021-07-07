@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.c25e816e.chunk.css",
-    "main.js": "/static/js/main.05aa056f.chunk.js",
-    "main.js.map": "/static/js/main.05aa056f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4bccd254.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4bccd254.js.map",
-    "static/css/2.c1f4f5f4.chunk.css": "/static/css/2.c1f4f5f4.chunk.css",
-    "static/js/2.8d45d811.chunk.js": "/static/js/2.8d45d811.chunk.js",
-    "static/js/2.8d45d811.chunk.js.map": "/static/js/2.8d45d811.chunk.js.map",
-    "static/js/3.2f819d5c.chunk.js": "/static/js/3.2f819d5c.chunk.js",
-    "static/js/3.2f819d5c.chunk.js.map": "/static/js/3.2f819d5c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.c1f4f5f4.chunk.css.map": "/static/css/2.c1f4f5f4.chunk.css.map",
-    "static/css/main.c25e816e.chunk.css.map": "/static/css/main.c25e816e.chunk.css.map",
-    "static/js/2.8d45d811.chunk.js.LICENSE.txt": "/static/js/2.8d45d811.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/SEGA.47b4bfa9.woff"
+    "main.css": "/ISS_Tracker/static/css/main.b3bc6674.chunk.css",
+    "main.js": "/ISS_Tracker/static/js/main.05aa056f.chunk.js",
+    "main.js.map": "/ISS_Tracker/static/js/main.05aa056f.chunk.js.map",
+    "runtime-main.js": "/ISS_Tracker/static/js/runtime-main.8db9caac.js",
+    "runtime-main.js.map": "/ISS_Tracker/static/js/runtime-main.8db9caac.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/ISS_Tracker/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.8d45d811.chunk.js": "/ISS_Tracker/static/js/2.8d45d811.chunk.js",
+    "static/js/2.8d45d811.chunk.js.map": "/ISS_Tracker/static/js/2.8d45d811.chunk.js.map",
+    "static/js/3.2f819d5c.chunk.js": "/ISS_Tracker/static/js/3.2f819d5c.chunk.js",
+    "static/js/3.2f819d5c.chunk.js.map": "/ISS_Tracker/static/js/3.2f819d5c.chunk.js.map",
+    "index.html": "/ISS_Tracker/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/ISS_Tracker/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.b3bc6674.chunk.css.map": "/ISS_Tracker/static/css/main.b3bc6674.chunk.css.map",
+    "static/js/2.8d45d811.chunk.js.LICENSE.txt": "/ISS_Tracker/static/js/2.8d45d811.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ISS_Tracker/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.4bccd254.js",
+    "static/js/runtime-main.8db9caac.js",
     "static/css/2.c1f4f5f4.chunk.css",
     "static/js/2.8d45d811.chunk.js",
-    "static/css/main.c25e816e.chunk.css",
+    "static/css/main.b3bc6674.chunk.css",
     "static/js/main.05aa056f.chunk.js"
   ]
 }
